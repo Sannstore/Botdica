@@ -1,0 +1,44 @@
+[
+   {
+      "id": "120363197798099444@g.us",
+      "key": "Jadwal",
+      "response": "Jadwal Matkul Sistem Informasi :\t\n============================\nSenin Kewarganegaraan (G.124)\nSenin Bahasa Inggris (G.112)\n============================\nSelasa Struktur Data (Lab 02FTIK)\n============================\nRabu Statistika & Prob II (G.123)\nRabu Sistem Operasi (G.124)\n============================\nKamis Basis Data (Lab 02FTIK)\n============================\nJumat S.I Manajemen (G.111)\nJumat Agama (G.103)\n============================",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363197798099444@g.us",
+      "key": "Presentasi",
+      "response": "List Presentasi :\n============================\nKewarganegaraan (Presentasi 3-4 Orang)\nBahasa Inggris (Presentasi 5-6 Orang)\nStruktur Data (-)\nStatistika&Prob II (-)\nSistem Operasi (-)\nBasis Data (-)\nS.I Manajemen (Presentasi 4-5 Orang)\nAgama (-)\n============================",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363197798099444@g.us",
+      "key": "Tugas",
+      "response": "List Tugas :\n============================\nKewarganegaraan (-)\nBahasa Inggris (-)\nStruktur Data (Coding DeadLine-1April)\nStatistika&Prob II (-)\nSistem Operasi (-)\nBasis Data (-)\nS.I Manajemen (-)\nAgama (-)\n============================",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363197798099444@g.us",
+      "key": "UTS",
+      "response": "Belum diisi...",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363197798099444@g.us",
+      "key": "UAS",
+      "response": "Belum diisi...",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363251281621840@g.us",
+      "key": "abas",
+      "response": "hah?",
+      "isImage": false,
+      "image_url": "-"
+   }
+]
